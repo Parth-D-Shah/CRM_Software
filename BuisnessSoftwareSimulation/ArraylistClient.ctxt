@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArraylistClient
+comment1.params=
+comment1.target=ArraylistClient()
+comment2.params=item
+comment2.target=void\ addClient(Person)
+comment3.params=position
+comment3.target=void\ removeClient(int)
+numComments=4

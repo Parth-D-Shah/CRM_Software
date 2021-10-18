@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArraylistWorker
+comment1.params=
+comment1.target=ArraylistWorker()
+comment2.params=item
+comment2.target=void\ addWorker(Person)
+comment3.params=position
+comment3.target=void\ removeWorker(int)
+numComments=4

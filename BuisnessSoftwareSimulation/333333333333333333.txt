@@ -1,0 +1,33 @@
+/*for(int i = 0;i < G.rules.length;i++)
+        {
+            for(int s=0;s < G.rules[i].rhs.length;s++)
+            {
+                if(G.rules[i].rhs[s] == G.startVar) //START Routine check
+                {
+                    return false;
+                }
+                if(G.rules[i].rhs[s].length() > 2) //BIN Routine check
+                {
+                    return false;
+                }
+                if((G.rules[i].var != G.startVar)&(G.rules[i].rhs[s].length() == 0)) //DEL Routine check
+                {
+                    return false;
+                }
+                for(int p = 0;p < G.vars.length;p++)
+                {
+                    if(G.rules[i].rhs[s] == G.vars[p]) //UNIT Routine check
+                    {
+                        return false;
+                    }
+                }
+                for(int e = 0;e < G.alphabet.length;e++) //
+                {
+                    if(G.rules[i].rhs[s] == G.alphabet[e])
+                    {
+                        return false;
+                    }
+                }
+            }
+        }
+        return true;*/

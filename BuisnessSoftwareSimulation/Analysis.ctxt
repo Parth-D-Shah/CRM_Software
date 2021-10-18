@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Analysis
+comment1.params=
+comment1.target=Analysis()
+comment2.params=
+comment2.target=int\ returnsales()
+comment3.params=
+comment3.target=int\ returndividend()
+comment4.params=
+comment4.target=int\ returnassetgrowth()
+numComments=5
